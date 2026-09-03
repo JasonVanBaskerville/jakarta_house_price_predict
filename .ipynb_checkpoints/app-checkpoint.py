@@ -95,8 +95,7 @@ city_district = {
         "Ruko Rawa Lumbu",
         "Kayu Jati",
         "Kramat Jati",
-        "Gudang Peluru",
-        "Duren Sawit"
+        "Gudang Peluru"
     ],
 
     # =========================
