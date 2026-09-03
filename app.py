@@ -3,6 +3,7 @@ import joblib
 import pandas as pd
 
 model = joblib.load("jakarta_house_price_predict.joblib")
+data = pd.read_csv("jakarta_house.csv")
 
 st.title("Jakarta House Price Prediction App")
 
